@@ -1,0 +1,2 @@
+values of list f1...fn: 6.20, 12.30, 5.00, 18.80, 7.10, 12.80, 
+Geometric average value: 9.31
